@@ -1,0 +1,8 @@
+{
+  "name": "BreatheOS",
+  "description": "Personal air-intelligence platform for Delhi NCR commuters combining live environmental provenance, AirTwin relative exposure modeling, multi-agent Gemini planning, Google Routes commute comparison, and indoor air coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
